@@ -1,0 +1,329 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="WWW.653624.com" resolutions="1x" timestamp="1511368171549">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3893461121" ref="index"/>
+    <file name="advertisement.css" crc="80747597" ref="advertisement"/>
+    <file name="social-media.css" crc="150781211" ref="social-media"/>
+    <file name="more-music-ii.css" crc="142071449" ref="more-music-ii"/>
+    <file name="music.css" crc="111721722" ref="music"/>
+    <file name="contacts.css" crc="133142144" ref="contacts"/>
+    <file name="am.css" crc="3897127103" ref="am"/>
+    <file name="feedback.css" crc="258189015" ref="feedback"/>
+    <file name="more-music.css" crc="205106935" ref="more-music"/>
+    <file name="youtube.css" crc="4201822762" ref="youtube"/>
+  </folder>
+  <folder name="assets">
+    <file name="barbie-riddim.mp3" crc="3816054321" seo="true" mt="1510472721000"/>
+    <file name="362566332655555465_2.mp3" crc="322708535" seo="true" mt="1492336981000"/>
+    <file name="troublemaker.mp3" crc="316971823" seo="true" mt="1492336979000"/>
+    <file name="maria-teresa.mp3" crc="4240678330" seo="true" mt="1494642798000"/>
+    <file name="ls-all-day_2.mp3" crc="306024863" seo="true" mt="1492336984000"/>
+    <file name="newnew.mp3" crc="4141368423" seo="true" mt="1488101139000"/>
+    <file name="zorro.mp3" crc="4222352454" seo="true" mt="1489280566000"/>
+    <file name="boku-wa-kamida.mp3" crc="425267579" seo="true" mt="1505785600000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts"/>
+    <file name="museutils.js" crc="3803043152" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts"/>
+    <file name="whatinput.js" crc="86476730" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts"/>
+    <file name="webpro.js" crc="242022427" ref="index:am:feedback:contacts"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index:am:feedback"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index:am:feedback"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index:am:feedback"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts"/>
+    <file name="require.js" crc="4157109226" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts"/>
+    <file name="form_check.php" crc="147359589" ref="contacts"/>
+    <file name="form_throttle.php" crc="93986428" ref="contacts"/>
+    <file name="form_process.php" crc="3851993751" ref="contacts"/>
+    <file name="form-u6510.php" crc="58423304" ref="contacts"/>
+  </folder>
+  <folder name="images">
+    <file name="u4871-4-a.png" crc="470845260" ref="index"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts">
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="u4912-4.png" crc="4034694517" ref="index"/>
+    <file name="arrowmenuright.png" crc="41086373" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts">
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="u4940-4.png" crc="4214844355" ref="index"/>
+    <file name="u4968-4.png" crc="3862269577" ref="index"/>
+    <file name="u4994-4.png" crc="3786390420" ref="index"/>
+    <file name="u5020-4.png" crc="312005111" ref="index"/>
+    <file name="u5046-4.png" crc="4201206940" ref="index"/>
+    <file name="u5072-4.png" crc="71334062" ref="index"/>
+    <file name="u5098-4.png" crc="450097990" ref="index"/>
+    <file name="u5124-4.png" crc="4022703245" ref="index"/>
+    <file name="wp_ss_20150417_0002-crop-u5509.jpg" crc="14022484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wp_ss_20141101_0001-crop-u5504.jpg" crc="452616153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wp_ss_20160107_0035-crop-u5514.jpg" crc="3906063762" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6078.jpg" crc="3963307221" ref="index:am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts">
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="more-music" alt=""/>
+      <caption webpage="feedback" alt=""/>
+      <caption webpage="contacts" alt=""/>
+      <caption webpage="youtube" alt=""/>
+      <caption webpage="more-music-ii" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="am" alt=""/>
+      <caption webpage="social-media" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="am:music:more-music:advertisement:more-music-ii:feedback:youtube:social-media:contacts"/>
+    <file name="u9324.png" crc="377908352" ref="am"/>
+    <file name="u9324-a.png" crc="3812412905" ref="am"/>
+    <file name="u9389-4-a.png" crc="4034694517" ref="am"/>
+    <file name="u9333-4.png" crc="4214844355" ref="am"/>
+    <file name="u9341-4.png" crc="3862269577" ref="am"/>
+    <file name="u9385-4.png" crc="3786390420" ref="am"/>
+    <file name="u9381-4.png" crc="312005111" ref="am"/>
+    <file name="u9355-4.png" crc="4201206940" ref="am"/>
+    <file name="u9361-4.png" crc="71334062" ref="am"/>
+    <file name="u9378-4.png" crc="450097990" ref="am"/>
+    <file name="u9374-4.png" crc="4022703245" ref="am"/>
+    <file name="altajkjaf4xoeb63m2jc8r0pwopetqw02qtx3_kwytlmmjk.jpg" crc="33519995" seo="true" ref="am">
+      <caption webpage="am" alt=""/>
+    </file>
+    <file name="wp_ss_20160110_0046-crop-u4100.jpg" crc="504365598" seo="true" ref="am">
+      <caption webpage="am" alt=""/>
+    </file>
+    <file name="wp_ss_20160728_0007.jpg" crc="17396220" seo="true" ref="am">
+      <caption webpage="am" alt=""/>
+    </file>
+    <file name="u9111.png" crc="377908352" ref="music"/>
+    <file name="u9111-a.png" crc="3812412905" ref="music"/>
+    <file name="u9176-4.png" crc="4034694517" ref="music"/>
+    <file name="u9120-4-a.png" crc="4214844355" ref="music"/>
+    <file name="u9128-4.png" crc="3862269577" ref="music"/>
+    <file name="u9172-4.png" crc="3786390420" ref="music"/>
+    <file name="u9168-4.png" crc="312005111" ref="music"/>
+    <file name="u9142-4.png" crc="4201206940" ref="music"/>
+    <file name="u9148-4.png" crc="71334062" ref="music"/>
+    <file name="u9165-4.png" crc="450097990" ref="music"/>
+    <file name="u9161-4.png" crc="4022703245" ref="music"/>
+    <file name="pasted image 225x225.jpg" crc="373272277" seo="true" ref="music:advertisement">
+      <caption webpage="advertisement" alt=""/>
+      <caption webpage="music" alt=""/>
+    </file>
+    <file name="u8897.png" crc="377908352" ref="more-music"/>
+    <file name="u8897-a.png" crc="3812412905" ref="more-music"/>
+    <file name="u8962-4.png" crc="4034694517" ref="more-music"/>
+    <file name="u8906-4.png" crc="4214844355" ref="more-music"/>
+    <file name="u8914-4-a.png" crc="3862269577" ref="more-music"/>
+    <file name="u8958-4.png" crc="3786390420" ref="more-music"/>
+    <file name="u8954-4.png" crc="312005111" ref="more-music"/>
+    <file name="u8928-4.png" crc="4201206940" ref="more-music"/>
+    <file name="u8934-4.png" crc="71334062" ref="more-music"/>
+    <file name="u8951-4.png" crc="450097990" ref="more-music"/>
+    <file name="u8947-4.png" crc="4022703245" ref="more-music"/>
+    <file name="u8470.png" crc="377908352" ref="advertisement"/>
+    <file name="u8470-a.png" crc="3812412905" ref="advertisement"/>
+    <file name="u8535-4.png" crc="4034694517" ref="advertisement"/>
+    <file name="u8479-4.png" crc="4214844355" ref="advertisement"/>
+    <file name="u8487-4.png" crc="3862269577" ref="advertisement"/>
+    <file name="u8531-4-a.png" crc="3786390420" ref="advertisement"/>
+    <file name="u8527-4.png" crc="312005111" ref="advertisement"/>
+    <file name="u8501-4.png" crc="4201206940" ref="advertisement"/>
+    <file name="u8507-4.png" crc="71334062" ref="advertisement"/>
+    <file name="u8524-4.png" crc="450097990" ref="advertisement"/>
+    <file name="u8520-4.png" crc="4022703245" ref="advertisement"/>
+    <file name="u7402.png" crc="377908352" ref="more-music-ii"/>
+    <file name="u7402-a.png" crc="3812412905" ref="more-music-ii"/>
+    <file name="u7467-4.png" crc="4034694517" ref="more-music-ii"/>
+    <file name="u7463-4.png" crc="4214844355" ref="more-music-ii"/>
+    <file name="u7415-4.png" crc="3862269577" ref="more-music-ii"/>
+    <file name="u7460-4.png" crc="3786390420" ref="more-music-ii"/>
+    <file name="u7456-4-a.png" crc="312005111" ref="more-music-ii"/>
+    <file name="u7427-4.png" crc="4201206940" ref="more-music-ii"/>
+    <file name="u7436-4.png" crc="71334062" ref="more-music-ii"/>
+    <file name="u7443-4.png" crc="450097990" ref="more-music-ii"/>
+    <file name="u7452-4.png" crc="4022703245" ref="more-music-ii"/>
+    <file name="u7189.png" crc="377908352" ref="feedback"/>
+    <file name="u7189-a.png" crc="3812412905" ref="feedback"/>
+    <file name="u7254-4.png" crc="4034694517" ref="feedback"/>
+    <file name="u7250-4.png" crc="4214844355" ref="feedback"/>
+    <file name="u7202-4.png" crc="3862269577" ref="feedback"/>
+    <file name="u7247-4.png" crc="3786390420" ref="feedback"/>
+    <file name="u7243-4.png" crc="312005111" ref="feedback"/>
+    <file name="u7214-4-a.png" crc="4201206940" ref="feedback"/>
+    <file name="u7223-4.png" crc="71334062" ref="feedback"/>
+    <file name="u7230-4.png" crc="450097990" ref="feedback"/>
+    <file name="u7239-4.png" crc="4022703245" ref="feedback"/>
+    <file name="road.jpg" crc="4174814531" seo="true" ref="feedback">
+      <caption webpage="feedback" alt=""/>
+    </file>
+    <file name="cactus.jpg" crc="4128071816" seo="true" ref="feedback">
+      <caption webpage="feedback" alt=""/>
+    </file>
+    <file name="u8257.png" crc="377908352" ref="youtube"/>
+    <file name="u8257-a.png" crc="3812412905" ref="youtube"/>
+    <file name="u8322-4.png" crc="4034694517" ref="youtube"/>
+    <file name="u8318-4.png" crc="4214844355" ref="youtube"/>
+    <file name="u8270-4.png" crc="3862269577" ref="youtube"/>
+    <file name="u8315-4.png" crc="3786390420" ref="youtube"/>
+    <file name="u8311-4.png" crc="312005111" ref="youtube"/>
+    <file name="u8282-4.png" crc="4201206940" ref="youtube"/>
+    <file name="u8291-4-a.png" crc="71334062" ref="youtube"/>
+    <file name="u8298-4.png" crc="450097990" ref="youtube"/>
+    <file name="u8307-4.png" crc="4022703245" ref="youtube"/>
+    <file name="u8044.png" crc="377908352" ref="social-media"/>
+    <file name="u8044-a.png" crc="3812412905" ref="social-media"/>
+    <file name="u8109-4.png" crc="4034694517" ref="social-media"/>
+    <file name="u8105-4.png" crc="4214844355" ref="social-media"/>
+    <file name="u8057-4.png" crc="3862269577" ref="social-media"/>
+    <file name="u8102-4.png" crc="3786390420" ref="social-media"/>
+    <file name="u8098-4.png" crc="312005111" ref="social-media"/>
+    <file name="u8069-4.png" crc="4201206940" ref="social-media"/>
+    <file name="u8078-4.png" crc="71334062" ref="social-media"/>
+    <file name="u8085-4-a.png" crc="450097990" ref="social-media"/>
+    <file name="u8094-4.png" crc="4022703245" ref="social-media"/>
+    <file name="u7615.png" crc="377908352" ref="contacts"/>
+    <file name="u7615-a.png" crc="3812412905" ref="contacts"/>
+    <file name="u7680-4.png" crc="4034694517" ref="contacts"/>
+    <file name="u7676-4.png" crc="4214844355" ref="contacts"/>
+    <file name="u7628-4.png" crc="3862269577" ref="contacts"/>
+    <file name="u7673-4.png" crc="3786390420" ref="contacts"/>
+    <file name="u7669-4.png" crc="312005111" ref="contacts"/>
+    <file name="u7640-4.png" crc="4201206940" ref="contacts"/>
+    <file name="u7649-4.png" crc="71334062" ref="contacts"/>
+    <file name="u7656-4.png" crc="450097990" ref="contacts"/>
+    <file name="u7665-4-a.png" crc="4022703245" ref="contacts"/>
+  </folder>
+  <file name="index.html" crc="185594818" seo="true" mt="1511367861651" redirect="true"/>
+  <file name="am.html" crc="3788078183" seo="true" mt="1511368154592" redirect="true"/>
+  <file name="music.html" crc="4010218252" seo="true" mt="1511368156437" redirect="true"/>
+  <file name="more-music.html" crc="375067205" seo="true" mt="1511368158075" redirect="true"/>
+  <file name="advertisement.html" crc="4138315364" seo="true" mt="1511368159608" redirect="true"/>
+  <file name="more-music-ii.html" crc="4193243975" seo="true" mt="1511368160882" redirect="true"/>
+  <file name="feedback.html" crc="4021827687" seo="true" mt="1511368162524" redirect="true"/>
+  <file name="youtube.html" crc="37928183" seo="true" mt="1511368164266" redirect="true"/>
+  <file name="social-media.html" crc="4150563238" seo="true" mt="1511368165647" redirect="true"/>
+  <file name="contacts.html" crc="48323446" seo="true" mt="1511368168142" redirect="true"/>
+</manifest>
